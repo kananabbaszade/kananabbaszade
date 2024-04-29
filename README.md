@@ -30,10 +30,3 @@
 <a href="https://www.linkedin.com/in/kenan-abbaszade-161832194"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/kananabbaszade"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <a href="mailto:kananabbaszadex@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<p>
-<a href="https://github.com/kananabbaszade">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kananabbaszade&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kananabbaszade&theme=radical&layout=compact&exclude_lang=java+r" />
-</a>
-</p>
