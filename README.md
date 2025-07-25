@@ -1,14 +1,14 @@
 <h1 align="center">Hi there 👋, I'm Kenan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Flutter+Developer;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Mobile+App +Developer;Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 💻 About Me
 
-- 👨‍💻 &nbsp; **Flutter Developer**
+- 👨‍💻 &nbsp; **Mobile App Developer**
 - 🤔 &nbsp; Constantly exploring new technologies to build better mobile experiences  
 - 🎯 &nbsp; Focused on **clean architecture**, performance, and UI/UX perfection  
 - 🎓 &nbsp; Computer Engineering student at **Tekirdağ Namık Kemal University**
@@ -42,8 +42,8 @@
 
 ### 📫 Let's Connect
 
-- 📷 Instagram: [@yourhandle](https://instagram.com/yourhandle)
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- 📷 Instagram: [@yourhandle](https://www.instagram.com/_kenanabbaszade/)
+- 💼 LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/kenan-abbaszade-161832194/)
 
 ---
 
