@@ -1,30 +1,50 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2000&color=FF3131&vCenter=true&multiline=true&width=350&height=80&lines=Hi%2C+I+am+Kenan+Abbaszade.;I+am+Mobile+App+Developer.)](https://git.io/typing-svg)
+<h1 align="center">Hi there 👋, I'm Kenan</h1>
 
-<h3 style="font-family: 'Aclonica', sans-serif; color: grey;"> 💻 &nbsp;About Me </h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Flutter+Developer;Always+learning%2C+always+building" alt="Typing SVG" />
+</p>
 
-- 👨‍💻 &nbsp; Flutter Developer
-- 🤔 &nbsp; I am constantly working to research new technologies and produce software solutions. I offer solutions as a mobile developer
-- 🎓 &nbsp; Computer Engineering at Tekirdag Namik Kemal University
+---
 
-<h3 style="font-family: 'Aclonica', sans-serif; color: grey;"> 🛠 &nbsp;Tech Stack</h3>
+### 💻 About Me
 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+- 👨‍💻 &nbsp; **Flutter Developer**
+- 🤔 &nbsp; Constantly exploring new technologies to build better mobile experiences  
+- 🎯 &nbsp; Focused on **clean architecture**, performance, and UI/UX perfection  
+- 🎓 &nbsp; Computer Engineering student at **Tekirdağ Namık Kemal University**
 
-<h3 style="font-family: 'Aclonica', sans-serif; color: grey;"> 🤝 &nbsp;Connect with Me </h3>
+---
 
-<a href="https://www.linkedin.com/in/kenan-abbaszade-161832194"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/kananabbaszade"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-<a href="mailto:kananabbaszadex@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+### 🚀 Tech Stack
 
-<!-- Add Google Fonts link for Aclonica -->
-<link href="https://fonts.googleapis.com/css2?family=Aclonica&display=swap" rel="stylesheet">
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" width="450"/>
+</p>
+
+---
+
+### 🧠 Quote I Live By
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+---
+
+### 📫 Let's Connect
+
+- 📷 Instagram: [@yourhandle](https://instagram.com/yourhandle)
+- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+
+---
+
+⭐️ Keep coding, keep growing!
