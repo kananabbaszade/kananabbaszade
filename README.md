@@ -1,20 +1,18 @@
-### Hi there, I'm Kenan 👋
+### Hey there, I'm Kenan 👋  
+**Serial Flutter Developer | Mobile UI Enthusiast | Future Startup Builder**
 
-I'm a **Serial Flutter Developer** passionate about building high-quality mobile experiences.  
-Currently studying **Computer Engineering** at *Tekirdağ Namık Kemal University* and building real-world Flutter projects every day.  
-
-💻 I love crafting pixel-perfect UIs, architecting clean code, and constantly pushing my boundaries as a developer.  
-🚀 My goal is to build scalable apps, contribute to open-source, and eventually launch my own tech startup.
+I'm a passionate Flutter developer focused on building clean, functional and visually engaging mobile experiences.  
+🎓 Studying **Computer Engineering** at *Tekirdağ Namık Kemal University* while crafting real-world apps with modern mobile technologies.
 
 ---
 
-### 🔥 Interests
+### 🚀 What I Do
 
-- Flutter & Dart for cross-platform apps  
-- Clean Architecture & State Management (Riverpod)  
-- Firebase & REST API integrations  
-- UI/UX design with Lottie, SVG, and animations  
-- Productivity, clean code & performance optimization
+- ⚙️ Develop cross-platform apps with **Flutter & Dart**
+- 🎨 Design fluid UIs with **Rive**, **Lottie**, **SVG**
+- 🔥 Implement clean architecture & scalable state management
+- ☁️ Integrate with **Firebase**, APIs, **SQLite**, local storage, etc.
+- 👨‍💻 Always learning, experimenting & building
 
 ---
 
@@ -23,17 +21,30 @@ Currently studying **Computer Engineering** at *Tekirdağ Namık Kemal Universit
 #### 💬 Languages & Frameworks
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+
+---
 
 #### 🛠️ Tools & Platforms
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Rive](https://img.shields.io/badge/Rive-000000?style=for-the-badge&logo=rive&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-#### 🧩 Other Skills
+---
+
+#### 📦 Other Skills & Concepts
 ![Riverpod](https://img.shields.io/badge/Riverpod-0A0A0A?style=for-the-badge&logo=flutter&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-2196F3?style=for-the-badge&logo=flutter&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-42A5F5?style=for-the-badge&logo=flutter&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-5C6BC0?style=for-the-badge&logo=flutter&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST--API-007EC6?style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-4CAF50?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean--Architecture-263238?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
 
@@ -46,6 +57,8 @@ Currently studying **Computer Engineering** at *Tekirdağ Namık Kemal Universit
 </p>
 
 ---
+
+## 📈 GitHub Stats
 
 | <a href="https://github.com/kananabbaszade"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kananabbaszade&show_icons=true&theme=radical&hide_border=true" alt="Kenan's GitHub stats" /></a> | <a href="https://github.com/kananabbaszade"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kananabbaszade&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
