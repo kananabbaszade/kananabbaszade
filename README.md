@@ -47,5 +47,5 @@ Currently studying **Computer Engineering** at *Tekirdağ Namık Kemal Universit
 
 ---
 
-| <a href="https://github.com/kenanabbaszade"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kenanabbaszade&show_icons=true&theme=radical&hide_border=true" alt="Kenan's GitHub stats" /></a> | <a href="https://github.com/kenanabbaszade"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenanabbaszade&layout=compact&theme=radical&hide_border=true" /></a> |
+| <a href="https://github.com/kenanabbaszade"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kenanabbaszade&show_icons=true&theme=radical&hide_border=true" alt="Kenan's GitHub stats" /></a> | <a href="https://github.com/kananabbaszade"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kananabbaszade&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
