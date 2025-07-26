@@ -1,48 +1,51 @@
-<h1 align="center">Hi there 👋, I'm Kenan</h1>
+### Hi there, I'm Kenan 👋
 
+I'm a **Serial Flutter Developer** passionate about building high-quality mobile experiences.  
+Currently studying **Computer Engineering** at *Tekirdağ Namık Kemal University* and working on real-world Flutter projects every day.  
 
-
----
-
-### 💻 About Me
-
-- 👨‍💻 &nbsp; **Mobile App Developer**
-- 🤔 &nbsp; Constantly exploring new technologies to build better mobile experiences  
-- 🎯 &nbsp; Focused on **clean architecture**, performance, and UI/UX perfection  
-- 🎓 &nbsp; Computer Engineering student at **Tekirdağ Namık Kemal University**
+💻 I love crafting pixel-perfect UIs, building clean architectures, and pushing my boundaries with every project I take on.  
+🚀 My goal is to build scalable apps, contribute to open-source, and eventually build my own tech startup.
 
 ---
 
-### 🚀 Tech Stack
+### 🔥 Interests
 
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+- Mobile app development with Flutter
+- Clean Architecture & State Management (Riverpod)
+- Firebase & API Integrations
+- UI/UX design & animation with Lottie & SVG
+- Productivity and Software Craftsmanship
 
 ---
 
-### 📈 GitHub Stats
+## 🧠 Tech Stack
+
+#### 💬 Languages & Frameworks
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+#### 🛠️ Tools & Platforms
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+#### 🧩 Other Skills
+![Riverpod](https://img.shields.io/badge/Riverpod-0A0A0A?style=for-the-badge&logo=flutter&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-%23007EC6?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+---
+
+## 🔗 Connect with Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" width="450"/>
+  <a href="https://www.linkedin.com/in/kenan-abbaszade"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/rowie.store"><img src="https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://rowie.store"><img src="https://img.shields.io/badge/Shopier%20Store-000000?style=for-the-badge&logo=shopify&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🧠 Quote I Live By
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
----
-
-### 📫 Let's Connect
-
-- 📷 Instagram: [@yourhandle](https://www.instagram.com/_kenanabbaszade/)
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/kenan-abbaszade-161832194/)
-
----
-
-⭐️ Keep coding, keep growing!
+| <a href="https://github.com/kenanabbaszade"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kenanabbaszade&show_icons=true&theme=radical&hide_border=true" alt="Kenan's GitHub stats" /></a> | <a href="https://github.com/kenanabbaszade"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenanabbaszade&layout=compact&theme=radical&hide_border=true" /></a> |
+| ------------- | ------------- |
