@@ -40,9 +40,9 @@ Currently studying **Computer Engineering** at *Tekirdağ Namık Kemal Universit
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kenan-abbaszade"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/rowie.store"><img src="https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://rowie.store"><img src="https://img.shields.io/badge/Shopier%20Store-000000?style=for-the-badge&logo=shopify&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kenan-abbaszade-161832194/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/_kenanabbaszade/"><img src="https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://x.com/kananabbaszade"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fkananabbaszade" /></a>
 </p>
 
 ---
